@@ -1,6 +1,4 @@
 # Contributors
--[@AbhayHaridas](https://github.com/AbhayHaridas)
-
 -[@seakun](https://github.com/seakun)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
@@ -28537,6 +28535,8 @@
 
 -[@ndmx](https://github.com/ndmx/)
 
+-[@anujnegi341](https://github.com/anujnegi341/)
+
 -[@mutebinuhu](https://github.com/mutebinuhu/)
 
 -[@jake-ephraim](https://github.com/jake-ephraim/)
@@ -28681,6 +28681,8 @@
 
 -[@nnhhiilliisstt](https://github.com/nnhhiilliisstt)
 
+-[@GentilPinto](https://github.com/GentilPinto)
+
 -[@hanijeel](https://github.com/hanijeel/)
 
 -[@AntEncarnacion](https://github.com/AntEncarnacion)
@@ -28787,4 +28789,10 @@
 -[@tnguyen0393](https://github.com/tnguyen0393)
 
 -[@savvasg35](https://github.com/Savvasg35)
->>>>>>> 70c85d8932bdad427a77cde9698c4c879a1b5b8f
+
+-[@JacDawn] (https://github.com/JacDawn)
+
+-[@alericoj10](https://github.com/alericoj10)
+
+-[@Alsheikh-dev](https://github.com/Alsheikh-dev)
+
